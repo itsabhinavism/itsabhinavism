@@ -11,12 +11,6 @@
 
 <p><h3>📜 Have basic knowledge of :~ </h3></p>  <p><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-
-
-<h3>🧐 Where to find me:~ </h3>
-
-<p><a href="https://github.com/itsabhinavism" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/abhinav-anand-134206251" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="a.for.abhinav.2003@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-
 ------------
 <h2>Stats~👀 </h2>
 
