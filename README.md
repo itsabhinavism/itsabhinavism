@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Abhinav Anand!</h1></summary>
+    <summary><h1 style="display: inline-block">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhinav Anand!</h1></summary>
   </ul>
 </div>
 
@@ -28,6 +28,8 @@
 - 📸 I am also a **Street Photographer** and I regularly post on my [Instagram page](https://www.instagram.com/infinitepov/).
 
 - 🏠 I am from Jharkhand, **India**. 
+
+- 🤔 I’m currently open for: **Job** or an **Intern**.
 
 - 📫 Feel free to reach me out **a.for.abhinav.2003@gmail.com**.
 
@@ -108,11 +110,14 @@
 
 
 <!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=itsabhinavism&icon=3&color=6)](https://visitcount.itsvg.in)
-  </p>
-</div>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://komarev.com/ghpvc/?username=itsabhinavism&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://img.shields.io/github/followers/itsabhinavism?label=Followers" alt="bouaskaoun" />
+	</a>
+</p>
 
 
 <!--horizontal divider(gradiant)-->
