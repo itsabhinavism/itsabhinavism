@@ -21,15 +21,15 @@
 
 
 <!--Intro start-->
-- 🌱 I’m currently learning **Flutter, Dart, C++**.
+- 🌱 I’m currently learning **Flutter and C++** while working on my **First Flutter App**.
 
-- 🦾 I’m currently working on my **First Flutter App**.
+- 💻 I'm currently studying **CSE** at **KIIT University** in **Bhubaneshwar, Odisha**.
 
-- 📸 I am also a street photographer and I regularly post on my [Instagram page](https://www.instagram.com/infinitepov/)
+- 📸 I am also a **Street Photographer** and I regularly post on my [Instagram page](https://www.instagram.com/infinitepov/).
 
-- 🏠 I am from Jharkhand, India.
+- 🏠 I am from Jharkhand, **India**. 
 
-- 📫 Feel free to reach me out **a.for.abhinav.2003@gmail.com**
+- 📫 Feel free to reach me out **a.for.abhinav.2003@gmail.com**.
 
 
 <!--Intro end-->
