@@ -21,19 +21,17 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Flutter, Dart, C++**
+- 🌱 I’m currently learning **Flutter, Dart, C++**.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🦾 I’m currently working on my **First Flutter App**.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 📸 I am also a street photographer and I regularly post on my [Instagram page](https://www.instagram.com/infinitepov/)
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 🏠 I am from Jharkhand, India.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 Feel free to reach me out **a.for.abhinav.2003@gmail.com**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 <br><br>
@@ -43,7 +41,7 @@
 
 
 <!--- stats & Trophy (start) -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -81,12 +79,12 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+ 
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,discord,github,html,java,mysql,vscode,androidstudio,photoshop&perline=14" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,html,java,mysql,photoshop,discord,vscode,androidstudio,github&perline=14" />
   </a>
 </p>
 
@@ -94,8 +92,7 @@
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  <ul align="center"><summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 <!--icons and links-->
