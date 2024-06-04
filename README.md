@@ -25,11 +25,11 @@
 <!--Intro start-->
 - 🌱 I’m currently learning **Flutter and C++** while working on my **First Flutter App**.
 
-- 💻 I'm currently studying **CSE** at **KIIT University** in **Bhubaneshwar, Odisha**.
+- 💻 I'm currently in my third year studying **CSE** in **B.Tech** at **KIIT University**.
 
-- 📸 I am also a **Street Photographer** and I regularly post on my [Instagram page](https://www.instagram.com/infinitepov/).
+- 🏠 I am from Jharkhand, **India** currently residing in Bhubaneshwar, **Odisha**.
 
-- 🏠 I am from Jharkhand, **India**. 
+- 📸 I am also a **Street Photographer**, checkout my [Instagram page](https://www.instagram.com/infinitepov/).
 
 - 🤔 I’m currently open for: **Job** or an **Intern**.
 
