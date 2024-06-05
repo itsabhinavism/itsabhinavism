@@ -27,7 +27,7 @@
 
 - 💻 I'm currently in my third year studying **CSE** in **B.Tech** at **KIIT University**.
 
-- 🏠 I am from Jharkhand, **India** currently residing in Bhubaneshwar, **Odisha**.
+- 🏠 I am from Jharkhand currently residing in Bhubaneshwar, **Odisha**.
 
 - 📸 I am also a **Street Photographer**, checkout my [Instagram page](https://www.instagram.com/infinitepov/).
 
