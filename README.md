@@ -29,11 +29,11 @@
 
 - 🏠 From Jharkhand currently residing in Bhubaneshwar, **Odisha**.
 
-- 📸 I am also a **Street Photographer**, checkout my [Instagram page](https://www.instagram.com/infinitepov/).
+- 📸 I am also a **Street and Concert Photographer**, checkout my [Portfolio](https://infinitepov.mypixieset.com/).
 
 - 🤔 Currently open for: **Job** or an **Intern**.
 
-- 📫 Feel free to reach me out **a.for.abhinav.2003@gmail.com**.
+- 📫 Feel free to reach me out **abhinavanand13.official@gmail.com**.
 
 
 <!--Intro end-->
