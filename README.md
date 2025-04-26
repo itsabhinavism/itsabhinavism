@@ -25,7 +25,7 @@
 <!--Intro start-->
 - 🌱 Currently learning **Flutter and C++** while working on my **First Flutter App**.
 
-- 💻 In my third year studying **CSE** in **B.Tech** at **KIIT University**.
+- 💻 In my fourth year studying **CSE** in **B.Tech** at **KIIT University**.
 
 - 🏠 From Jharkhand currently residing in Bhubaneshwar, **Odisha**.
 
