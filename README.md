@@ -113,11 +113,11 @@
 
 <!--profile visit count-->
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://komarev.com/ghpvc/?username=itsabhinavism&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	<a href="https://github.com/itsabhinavism">
+		<img src="https://komarev.com/ghpvc/?username=itsabhinavism&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhinavism" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/itsabhinavism?label=Followers" alt="bouaskaoun" />
+	<a href="https://github.com/itsabhinavism">
+		<img src="https://img.shields.io/github/followers/itsabhinavism?label=Followers" alt="itsabhinavism" />
 	</a>
 </p>
 
