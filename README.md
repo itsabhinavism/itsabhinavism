@@ -23,7 +23,7 @@
 
 
 <!--Intro start-->
-- 🌱 Currently learning **Flutter and C++** while working on my **First Flutter App**.
+- 🌱 Learning **Flutter and C++**.
 
 - 💻 In my fourth year studying **CSE** in **B.Tech** at **KIIT University**.
 
