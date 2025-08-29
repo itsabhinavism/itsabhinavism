@@ -29,7 +29,7 @@
 
 - 🏠 From Jharkhand currently residing in Bhubaneshwar, **Odisha**.
 
-- 📸 I am also a **Street and Concert Photographer**, checkout my [Portfolio](https://infinitepov.mypixieset.com/).
+- 📸 I am also a **Street and Concert Photographer**, checkout my [Portfolio]([https://infinitepov.mypixieset.com/](https://infinitepov.framer.website/)).
 
 - 🤔 Currently open for: **Job** or an **Intern**.
 
