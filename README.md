@@ -9,17 +9,16 @@
 * 🎓 CSE Undergrad | KIIT University
 * 💻 I love building full-stack apps, automating tasks, and learning scalable backend systems.
 * ⚙️ Working with tools like **TypeScript**, **Express**, **Supabase**, and **PostgreSQL**.
-`* 📈 Currently learning: **Backend & System Design** `
 
 ---
 
 ### 🛠️ Tech Stack
 
 * **Languages**: Dart, Java, C++, SQL, TypeScript.
-* **Frameworks & Tools:** Node.js, Express, React Native, Tailwind
-* **Databases:** PostgreSQL, Firebase, Supabase
-* **Other:** Git, REST APIs
-
+* **Frameworks & Libraries**: Flutter, Provider, Bun, HTTP, Hono.js.
+* **Backend & Cloud**: Supabase, Firebase Cloud Messaging , PostgreSQL, Railway.
+* **AI & ML**: Google Gemini AI, Tavily API, Vercel AI SDK, pdf-parse
+* **Developer Tools**: Git, GitHub, VS Code, Android Studio, Vercel/Netlify
 ---
 
 ### 📊 GitHub Stats
@@ -43,8 +42,8 @@
 
 ### 📫 Let's Connect
 
-* ✉️ [Email](mailto:your.email@example.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
-* 🌐 [Portfolio](https://yourportfolio.com)
+* ✉️ [Email](mailto:abhinavanand13.official@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-anand-134206251/)
+* 🌐 [Portfolio](https://abhinav13.netlify.app/)
 
 Thanks for visiting! ✨
