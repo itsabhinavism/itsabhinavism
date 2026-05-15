@@ -8,13 +8,14 @@
 
 * 🎓 CSE Undergrad | KIIT University
 * 💻 I love building full-stack apps, automating tasks, and learning scalable backend systems.
-* ⚙️ Working with tools like **TypeScript**, **Express**, **Supabase**, and **PostgreSQL**.
+* ⚙️ Working with tools like **SQL**, **PowerBI**, and **Excel**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **Languages**: Dart, Java, C++, SQL, TypeScript.
+* **Languages**: Dart, Java, C++, SQL, TypeScript, Python.
+* **Data Analytics**: PowerBI, Excel, Powerpoint.
 * **Frameworks & Libraries**: Flutter, Provider, Bun, HTTP, Hono.js.
 * **Backend & Cloud**: Supabase, Firebase Cloud Messaging , PostgreSQL, Railway.
 * **AI & ML**: Google Gemini AI, Tavily API, Vercel AI SDK, pdf-parse
