@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abhinav Anand 👋</h1>
 
-<p align="center">A flutter developer and tech enthusiast exploring the world of software, AI, and scalable systems.</p>
+<p align="center">A data analyst and tech enthusiast exploring the world of software, AI, and scalable systems.</p>
 
 ---
 
@@ -8,7 +8,7 @@
 
 * 🎓 CSE Undergrad | KIIT University
 * 💻 I love building full-stack apps, automating tasks, and learning scalable backend systems.
-* ⚙️ Working with tools like **SQL**, **PowerBI**, and **Excel**.
+* ⚙️ Working with tools like **SQL**, **Python**, **PowerBI**, and **Excel**.
 
 ---
 
