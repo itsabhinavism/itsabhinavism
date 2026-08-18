@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages**: Dart, Java, C++, SQL, TypeScript, Python.
+* **Languages**: Dart, Java, SQL, Python.
 * **Data Analytics**: PowerBI, Excel, Powerpoint.
 * **Frameworks & Libraries**: Flutter, Provider, Bun, HTTP, Hono.js.
 * **Backend & Cloud**: Supabase, Firebase Cloud Messaging , PostgreSQL, Railway.
